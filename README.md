@@ -119,8 +119,8 @@ Mean values per cluster (Agglomerative Clustering):
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/SmartCart.git
-cd SmartCart
+git clone https://github.com/shubh-2309/smartcart.git
+cd smartcart
 pip install pandas numpy matplotlib seaborn scikit-learn kneed jupyter
 ```
 
